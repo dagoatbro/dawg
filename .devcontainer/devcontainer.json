@@ -1,0 +1,9 @@
+{
+  "name": "Electron App in Browser",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "forwardPorts": [6080],
+  "remoteUser": "root"
+}
+
